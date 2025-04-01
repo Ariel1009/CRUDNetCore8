@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Codigos Progra\\PortafolioWebNetCore\\CRUDNetCore8\\P_CRUDNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A00B6616-FF1E-48D6-BFAF-1D18E4F9CB17}|P_CRUDNetCore\\P_CRUDNetCore.csproj|f:\\codigos progra\\portafoliowebnetcore\\crudnetcore8\\p_crudnetcore\\p_crudnetcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00B6616-FF1E-48D6-BFAF-1D18E4F9CB17}|P_CRUDNetCore\\P_CRUDNetCore.csproj|solutionrelative:p_crudnetcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00B6616-FF1E-48D6-BFAF-1D18E4F9CB17}|P_CRUDNetCore\\P_CRUDNetCore.csproj|f:\\codigos progra\\portafoliowebnetcore\\crudnetcore8\\p_crudnetcore\\p_crudnetcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A00B6616-FF1E-48D6-BFAF-1D18E4F9CB17}|P_CRUDNetCore\\P_CRUDNetCore.csproj|solutionrelative:p_crudnetcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00B6616-FF1E-48D6-BFAF-1D18E4F9CB17}|P_CRUDNetCore\\P_CRUDNetCore.csproj|f:\\codigos progra\\portafoliowebnetcore\\crudnetcore8\\p_crudnetcore\\p_crudnetcore\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A00B6616-FF1E-48D6-BFAF-1D18E4F9CB17}|P_CRUDNetCore\\P_CRUDNetCore.csproj|solutionrelative:p_crudnetcore\\views\\home\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00B6616-FF1E-48D6-BFAF-1D18E4F9CB17}|P_CRUDNetCore\\P_CRUDNetCore.csproj|f:\\codigos progra\\portafoliowebnetcore\\crudnetcore8\\p_crudnetcore\\p_crudnetcore\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00B6616-FF1E-48D6-BFAF-1D18E4F9CB17}|P_CRUDNetCore\\P_CRUDNetCore.csproj|solutionrelative:p_crudnetcore\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "F:\\Codigos Progra\\PortafolioWebNetCore\\CRUDNetCore8\\P_CRUDNetCore\\P_CRUDNetCore\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "P_CRUDNetCore\\Models\\Contact.cs",
+              "ToolTip": "F:\\Codigos Progra\\PortafolioWebNetCore\\CRUDNetCore8\\P_CRUDNetCore\\P_CRUDNetCore\\Models\\Contact.cs",
+              "RelativeToolTip": "P_CRUDNetCore\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:57:00.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "F:\\Codigos Progra\\PortafolioWebNetCore\\CRUDNetCore8\\P_CRUDNetCore\\P_CRUDNetCore\\Views\\Home\\Crear.cshtml",
+              "RelativeDocumentMoniker": "P_CRUDNetCore\\Views\\Home\\Crear.cshtml",
+              "ToolTip": "F:\\Codigos Progra\\PortafolioWebNetCore\\CRUDNetCore8\\P_CRUDNetCore\\P_CRUDNetCore\\Views\\Home\\Crear.cshtml",
+              "RelativeToolTip": "P_CRUDNetCore\\Views\\Home\\Crear.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T03:46:30.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Codigos Progra\\PortafolioWebNetCore\\CRUDNetCore8\\P_CRUDNetCore\\P_CRUDNetCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "P_CRUDNetCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Codigos Progra\\PortafolioWebNetCore\\CRUDNetCore8\\P_CRUDNetCore\\P_CRUDNetCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "P_CRUDNetCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T22:39:00.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Codigos Progra\\PortafolioWebNetCore\\CRUDNetCore8\\P_CRUDNetCore\\P_CRUDNetCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "P_CRUDNetCore\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Codigos Progra\\PortafolioWebNetCore\\CRUDNetCore8\\P_CRUDNetCore\\P_CRUDNetCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "P_CRUDNetCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T21:09:58.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
